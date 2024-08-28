@@ -6,8 +6,8 @@
 }
 
 .picture {
-    width: 160px;
-    height: 200px;
+    width: auto;
+    height: 165px;
     border-radius: 50%;
 }
 
@@ -43,7 +43,7 @@ header address img{
     width: 16px;
     height: 16px;
     background-color: cornflowerblue;
-    margin-right: 10px;
+    margin-right: 5px;
     padding: 8px;
     vertical-align: middle;
     border-radius: 50%;
@@ -79,6 +79,7 @@ header address img{
 .name {
     font-size: 30px;
     margin-bottom: 10px;
+    margin-left: 4px;
 }
 
 .section__header {
@@ -96,4 +97,9 @@ header address img{
 
 .tab {
     text-indent: 50px;
+}
+
+.profession {
+    margin-left: 5px;
+    font-size: 25px;
 }
