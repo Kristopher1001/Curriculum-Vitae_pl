@@ -101,5 +101,9 @@ header address img{
 
 .profession {
     margin-left: 5px;
-    font-size: 25px;
+    font-size: 20px;
+}
+
+.listItem {
+    font-weight: bold;
 }
