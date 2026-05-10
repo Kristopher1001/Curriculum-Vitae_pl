@@ -107,3 +107,7 @@ header address img{
 .listItem {
     font-weight: bold;
 }
+
+.section_imageGithub {
+    margin-left: 30px;
+}
