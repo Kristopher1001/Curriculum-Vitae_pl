@@ -1,5 +1,5 @@
 .mainfont {
-    font-family: 'Lato', sans-serif; 
+    font-family: 'Inter', sans-serif; 
     font-size: 18px;
     background-color: aliceblue;
     padding: 40px 0; 
@@ -15,7 +15,7 @@
 
 .container {
     box-shadow: 0 0 20px grey;
-    width: 960px; 
+    width: 1030px; 
     margin: 0 auto;
     background-color: white;
 }
