@@ -114,3 +114,7 @@ header address img{
 .section_imageGithub {
     margin-left: 30px;
 }
+
+.italic {
+    font-style: italic; 
+}
