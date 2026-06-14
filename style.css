@@ -1,23 +1,10 @@
-.mainfont {
+body {
     font-family: 'Inter', sans-serif; 
     font-size: 18px;
     background-color: aliceblue;
     padding: 40px 0; 
     line-height: 1.6;
     letter-spacing: 0.2px;
-}
-
-.picture {
-    width: auto;
-    height: 165px;
-    border-radius: 50%;
-}
-
-.container {
-    box-shadow: 0 0 20px grey;
-    width: 1030px; 
-    margin: 0 auto;
-    background-color: white;
 }
 
 section,
@@ -49,6 +36,19 @@ header address img{
     padding: 8px;
     vertical-align: middle;
     border-radius: 50%;
+}
+
+.picture {
+    width: auto;
+    height: 165px;
+    border-radius: 50%;
+}
+
+.container {
+    box-shadow: 0 0 20px grey;
+    width: 1040px; 
+    margin: 0 auto;
+    background-color: white;
 }
 
 .cv-download {
